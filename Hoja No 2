@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>Educaciòn</title>
+
+	</head>
+	<body>
+	<svg width=300 height=200>
+	<text x=20 y=30 font-weight="bold" fill="aqua" stroke="blue" stroke-widht=2
+	      font-family="comic sans ms" font-size="2em">CLAUDIA FM</text>
+
+	<h1>HOJA DE VIDA</h1>
+	<h2>CLAUDIA FRANCO</h2>
+	<ul>
+		<li><a href="file:///C:/Users/userpc/Documents/DESARROLLO%20PAGINAS%20WEB/Evaluacion%20final/EVALUACION.html">Inicio </a></li>
+		<li><a href="file:///C:/Users/userpc/Documents/DESARROLLO%20PAGINAS%20WEB/Evaluacion%20final/Educacion.html">Educaciòn</a></li>
+		<li><a href="file:///C:/Users/userpc/Documents/DESARROLLO%20PAGINAS%20WEB/Evaluacion%20final/Experiencia.html">Experiencia</a></li>
+		</ul>
+
+	<h2>Educaciòn</h2>
+
+	<table border="1">
+
+	<tr>
+	<th>Año</th>
+	<th>Institucion</th>
+	<th>Titulo</th>
+	<th>Culmino (si) (no)</th>
+
+	</tr>
+
+	<tr>
+	<td>1994</td>
+	<td>Danilo Cifuentes</td>
+	<td>Bachiller Comercial</td>
+	<td>SI</td>
+
+	</tr>
+
+	<tr>
+	<td>2014</td>
+	<td>Universidad del Tolima</td>
+	<td>Ingeniero de Sistemas</td>
+	<td>SI</td>
+
+	</tr>
+
+
+	<tr>
+	<td>2017</td>
+	<td>Unix University</td>
+	<td>Desarrollo de Paginas Web</td>
+	<td>No</td>
+
+	</tr>
+
+	
+	</table>
+
+	<h2>Agregar Educacacion</h2>
+
+	<form>
+	
+
+	<form action="Año" method="get">
+	<select name="Año">
+	<option value="2015">2013</option>
+	<option value="2015">2014</option>
+	<option value="2015">2015</option>
+	<option value="2015">2016</option>
+	<option value="2015">2017</option>
+
+	
+	<form action="Lugar" method="get">
+	<select name="Lugar">LUGAR
+	<textarea name="Lugar" rows="5" cols="20"></textarea>
+
+	<label for="Institucion">Instituciòn</label>
+	<input type="text">
+	<form action="Culmino" method="post">
+	¿Culmino?
+	<input type="radio" name="Culmino" value="SI">SI
+	<input type="radio" name="Culmino" value="NO">NO
+	<input type="submit" value="ENVIAR">
+
+
+		</form>
+
+	
+<div ide="pie">
+		<div ide="Email">Email: franclaut@hotmail.com</div>
+
+		<div ide="Telefono">Telefono: 3132787207</div>
+
+		<div ide="Direccion">Direccion Calle 41 f bis No 78 B 47</div>
+
+
+
+	</body>
+	</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>Educaciòn</title>
+
+	</head>
+	<body>
+	<svg width=300 height=200>
+	<text x=20 y=30 font-weight="bold" fill="aqua" stroke="blue" stroke-widht=2
+	      font-family="comic sans ms" font-size="2em">CLAUDIA F M </text>
+
+
+	<h1>HOJA DE VIDA</h1>
+
+	<h2>CLAUDIA FRANCO</h2>
+	<ul>
+		<li><a href="file:///C:/Users/userpc/Documents/DESARROLLO%20PAGINAS%20WEB/Evaluacion%20final/EVALUACION.html">Inicio </a></li>
+		<li><a href="file:///C:/Users/userpc/Documents/DESARROLLO%20PAGINAS%20WEB/Evaluacion%20final/Educacion.html">Educaciòn</a></li>
+		<li><a href="file:///C:/Users/userpc/Documents/DESARROLLO%20PAGINAS%20WEB/Evaluacion%20final/Experiencia.html">Experiencia</a></li>
+		</ul>
+
+
+		<h2>MI EXPERIENCIA</h2>
+		<VIDEO src="C:\Users\userpc\Documents\DESARROLLO PAGINAS WEB\Evaluacion final\Audio y Video/Mi Experiencia.mp4" controls autoplay="Audio y Video/Mi Experiencia.mp4" idth="500px" height="500px">
+		 </VIDEO>
+
+		 <h3>Mis hobbies</h3>
+
+		 <audio src="C:\Users\userpc\Documents\DESARROLLO PAGINAS WEB\Evaluacion final\Audio y Video/Voz 001.m4a" controls loop="Audio y Video/Voz 001.m4a">
+		 	
+		 </audio>
+
+
+
+
+
+
+<div ide="pie">
+		<div ide="Email">Email: franclaut@hotmail.com</div>
+
+		<div ide="Telefono">Telefono: 3132787207</div>
+
+		<div ide="Direccion">Direccion Calle 41 f bis No 78 B 47</div>
+
+
+
+
+
+
+		
+	</body>
+	</html>
